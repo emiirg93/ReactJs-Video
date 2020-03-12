@@ -1,8 +1,8 @@
 .carousel {
-  overflow: scroll;
   padding-left: 30px;
   width: 100%;
   position: relative;
+  overflow: hidden;
 }
 
 .carousel__container {
